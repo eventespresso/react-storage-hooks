@@ -1,4 +1,4 @@
-# @zetadisplay/react-storage-hooks
+# @eventespresso/react-storage-hooks
 
 Custom [React hooks](https://reactjs.org/docs/hooks-intro) for keeping application state in sync with `localStorage` or `sessionStorage`.
 
